@@ -1,0 +1,41 @@
+{
+  "todos": [
+    {
+      "todo": "Go to trek",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "todo": "Complete Project",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "todo": "Match at 5:30 pm",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "todo": "hey",
+      "isCompleted": false,
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

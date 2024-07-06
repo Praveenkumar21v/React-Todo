@@ -1,0 +1,16 @@
+.formContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+.btn{
+  width: 180px;
+  align-self: flex-start;
+}
+
+h1 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+
+}
